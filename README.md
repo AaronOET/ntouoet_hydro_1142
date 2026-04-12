@@ -58,47 +58,6 @@ Qx(x) =  N·(x − L/2) − T·(hL − h0)/L
 
 ---
 
-## Repository Structure
-
-```
-ntouoet_hydro_1142/
-├── HEAD_interactive/
-│   ├── HEAD_interactive.ipynb       # Notebook (no recharge)
-│   ├── head_interactive_widget.py   # Widget class
-│   ├── figs/fig1.2.jpg              # Background cross-section image
-│   └── RAS/georef1.tif              # Georeferenced GeoTIFF (auto-generated)
-├── HEAD_WITH_RECHARGE_interactive/
-│   ├── HEAD_WITH_RECHARGE_interactive.ipynb   # Notebook (with recharge)
-│   ├── head_with_recharge_widget.py           # Widget class
-│   ├── figs/fig1.2.jpg                        # Background cross-section image
-│   └── RAS/georef1.tif                        # Georeferenced GeoTIFF (auto-generated)
-└── requirements.txt
-```
-
----
-
-## Installation
-
-It is recommended to use conda:
-
-```bash
-conda install numpy matplotlib rasterio ipywidgets
-```
-
-or with pip:
-
-```bash
-pip install -r requirements.txt
-```
-
-> **Note:** `ipywidgets` requires the notebook extension to be enabled.
-> In JupyterLab this is bundled; in classic Notebook run:
-> ```bash
-> jupyter nbextension enable --py widgetsnbextension
-> ```
-
----
-
 ## Citation
 
 The analytical solutions, aquifer cross-section background images (`fig1.2.jpg`), and
