@@ -1,4 +1,5 @@
 # Steady 1-D Flow with Areal Recharge — Interactive Head Profile
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AaronOET/ntouoet_hydro_1142/HEAD?urlpath=%2Fdoc%2Ftree%2Ftree%2FHEAD_WITH_RECHARGE_interactive%2FHEAD_WITH_RECHARGE_interactive.ipynb)
 
 Interactive visualisation of a steady-state, one-dimensional groundwater head profile
 with areal recharge, overlaid on a georeferenced cross-section image.
