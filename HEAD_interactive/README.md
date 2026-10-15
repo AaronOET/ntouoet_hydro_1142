@@ -1,5 +1,6 @@
 # Steady 1-D Flow — Interactive Head Profile
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AaronOET/ntouoet_hydro_1142/HEAD?urlpath=%2Fdoc%2Ftree%2FHEAD_interactive%2FHEAD_interactive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AaronOET/ntouoet_hydro_1142/blob/main/HEAD_interactive/HEAD_interactive.ipynb)
 
 Interactive visualisation of a steady-state, one-dimensional groundwater head profile
 over a georeferenced cross-section image.

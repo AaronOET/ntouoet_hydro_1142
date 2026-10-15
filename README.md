@@ -11,6 +11,7 @@ groundwater flow, based on analytical solutions from *Analytical Groundwater Mod
 ### 1. Steady 1-D Flow — No Recharge
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AaronOET/ntouoet_hydro_1142/HEAD?urlpath=%2Fdoc%2Ftree%2FHEAD_interactive%2FHEAD_interactive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AaronOET/ntouoet_hydro_1142/blob/main/HEAD_interactive/HEAD_interactive.ipynb)
 
 Located in [HEAD_interactive/](HEAD_interactive/)
 
@@ -29,6 +30,7 @@ h(x) = h0 + (hL − h0) · x / L
 ### 2. Steady 1-D Flow — With Areal Recharge
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AaronOET/ntouoet_hydro_1142/HEAD?urlpath=%2Fdoc%2Ftree%2FHEAD_WITH_RECHARGE_interactive%2FHEAD_WITH_RECHARGE_interactive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AaronOET/ntouoet_hydro_1142/blob/main/HEAD_WITH_RECHARGE_interactive/HEAD_WITH_RECHARGE_interactive.ipynb)
 
 Located in [HEAD_WITH_RECHARGE_interactive/](HEAD_WITH_RECHARGE_interactive/)
 
